@@ -13,7 +13,7 @@ In this weekly report, I synthesize global macro events, policy shifts, and indu
 
 [View the Report](https://github.com/hieutheanalyst/general/blob/main/Weekly_report_22.01-26.01.pdf)
 
-## Semi-automated Technical Analysis and Signals
+## Automated Technical Analysis and Signals
 Using Amibroker (AFL), FireAnt, and Excel, I developed a workflow to automatically generate technical analysis charts, indicators, and trading signals for thousands of stocks. This allows me to quickly surface opportunities while eliminating manual effort.
 
 [Explore the Dashboard](https://github.com/hieutheanalyst/general/blob/main/Daily-technical-02.02.24.pdf)
