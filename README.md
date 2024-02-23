@@ -1,6 +1,6 @@
 # Some of my work
 
-Below are some of the work I have done that can be shared publicly without affecting company or customer interests.
+Below are some of the work I have done that can be shared publicly without violating company or customer interests.
 
 ## Backtesting and Optimizing Trading Strategy
 
