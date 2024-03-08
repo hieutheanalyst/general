@@ -2,6 +2,15 @@
 
 Below are some of the work I have done that can be shared publicly without violating company or customer interests.
 
+## My current project website
+Project: Trading Courses
+Website: BuyTrade
+Link: https://buytrade.vn/
+
+Introducing our innovative project focused on trading education and empowering traders to thrive in the financial markets. Our initiative aims to bridge the gap between aspiring traders and seasoned professionals by facilitating direct connections with experienced mentors. At the heart of this endeavor is a commitment to providing comprehensive education and mentorship opportunities to individuals looking to enhance their trading skills and achieve their financial goals.
+
+As part of this project, my role is to spearhead the development of a dynamic website that serves as a hub for trading resources, mentorship programs, and community engagement. Additionally, I oversee the management of our social media channels, ensuring that our message reaches a wide audience of aspiring traders. 
+
 ## Backtesting and Optimizing Trading Strategy
 
 I have experience building and evaluating quantitative trading strategies through robust backtesting and optimization techniques. The sample project below provides a demonstration of this process, though it requires further refinement and statistical validation before it could be considered a viable strategy. Please note this analysis is for educational purposes only and does not constitute investment advice. I do not make any representations regarding its profitability or appropriateness for trading purposes.
