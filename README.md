@@ -4,7 +4,9 @@ Below are some of the work I have done that can be shared publicly without viola
 
 ## My current project website
 Project: Trading Courses
+
 Website: BuyTrade
+
 Link: https://buytrade.vn/
 
 Introducing our innovative project focused on trading education and empowering traders to thrive in the financial markets. Our initiative aims to bridge the gap between aspiring traders and seasoned professionals by facilitating direct connections with experienced mentors. At the heart of this endeavor is a commitment to providing comprehensive education and mentorship opportunities to individuals looking to enhance their trading skills and achieve their financial goals.
